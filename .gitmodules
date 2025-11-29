@@ -4,3 +4,7 @@
 [submodule "code/temp/Endo-FM"]
 	path = code/temp/Endo-FM
 	url = git@github.com:openmedlab/Endo-FM.git
+[submodule "code/AIDAqc"]
+	path = code/AIDAqc
+	url = https://github.com/Aswendt-Lab/AIDAqc.git
+	datalad-id = c5cac56e-5b3b-40c4-bc09-d009dfc86f91
