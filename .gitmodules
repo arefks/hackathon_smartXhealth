@@ -1,0 +1,6 @@
+[submodule "code/Endo-FM"]
+	path = code/Endo-FM
+	url = https://github.com/med-air/Endo-FM.git
+[submodule "code/temp/Endo-FM"]
+	path = code/temp/Endo-FM
+	url = git@github.com:openmedlab/Endo-FM.git
